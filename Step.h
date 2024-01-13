@@ -130,7 +130,7 @@ public:
 
             else
             {
-                number_input = stof(number_input);
+                //number_input = stof(number_input);
             }
     }
     float getNumberInput() {
